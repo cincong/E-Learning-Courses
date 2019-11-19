@@ -1,4 +1,4 @@
-##Funcionamiento
+## Funcionamiento
 
 Para la parte de Django se crearon los modelos de Cursos,Lecciones,Preguntas y Respuestas, estas estan relacionadas através de la llave primaria, 
 al ingresar http://127.0.0.1:8000/admin/ se puede apreciar la interacción de estos modelos y el funcionamiento de la llave primaria.
