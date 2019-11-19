@@ -23,7 +23,6 @@ class LessonsDetails extends React.Component{
     return[
     <div style={{ height: '100%' }}>
       <Card title={this.state.lessons.title}>
-       <p>{this.state.assignment.content}</p>
        <Card type="inner" tittle="title">
         <Questions/>
        </Card>
